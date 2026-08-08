@@ -1,14 +1,18 @@
-# A Comparative Study of Five Predictive Algorithms for Eurovision Song Contest Results
+# Comparative Study of Five Predictive Algorithms for Eurovision Song Contest Results
 
 This repository contains the materials datasets and code required to reproduce the results reported in our research paper **A Comparative Study of Five Predictive Algorithms for Eurovision Song Contest Results**
 
-To access the original repository that inspired our data collection process please visit the [eurovision-dataset](github.com/Spijkervet/eurovision-dataset) repository
+## Acknowledgments and Credits
+
+We highly credit the original creators of the datasets that made this research possible Their foundational work and open data practices paved the way for our predictive modeling
+* **Mirovision** by the Amsterdam Music Lab You can find their incredible work at github.com/Amsterdam-Music-Lab/mirovision
+* **Eurovision Dataset** by Janne Spijkervet You can access the original base dataset at github.com/Spijkervet/eurovision-dataset
 
 ## Data
 
 The data used in this study originates from three primary sources
-* The official Eurovision website and Eurodex
-* The Eurovision World fan website
+* The official Eurovision website and Eurodex history page located at www.eurovision.com/eurovision-song-contest/history/
+* The Eurovision World fan website located at eurovisionworld.com/
 * Audio features extracted directly from live performances using Essentia
 
 The dataset contains five primary types of raw data
@@ -85,10 +89,11 @@ When using these materials or datasets please cite the following resources
 
 **Paper**
 ```bibtex
-@inproceedings{eurovision_predictive_algorithms,
-    author       = {Your Name and Collaborators},
-    title        = {A Comparative Study of Five Predictive Algorithms for {Eurovision Song Contest} Results},
-    booktitle    = {Proceedings of Your University Conference},
+@unpublished{eurovision_predictive_algorithms,
+    author       = {Charles David Ticwala, Joshua Jared Tabilin, and Adrian Mark Varona},
+    title        = {Comparative Study of Five Predictive Algorithms for {Eurovision Song Contest} Results},
+    note         = {Bachelor of Science in Computer Science Undergraduate Project},
+    institution    = {University of the Cordilleras},
     year         = 2026,
-    address      = {La Trinidad, Philippines}
+    address      = {Baguio City, Philippines}
 }
