@@ -1,6 +1,6 @@
 # Comparative Study of Five Predictive Algorithms for Eurovision Song Contest Results
 
-This repository contains the materials datasets and code required to reproduce the results reported in our research paper **A Comparative Study of Five Predictive Algorithms for Eurovision Song Contest Results**
+This repository contains the materials datasets and code required to reproduce the results reported in our research paper **Comparative Study of Five Predictive Algorithms for Eurovision Song Contest Results**
 
 ## Acknowledgments and Credits
 
