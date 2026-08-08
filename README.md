@@ -5,14 +5,14 @@ This repository contains the materials datasets and code required to reproduce t
 ## Acknowledgments and Credits
 
 We highly credit the original creators of the datasets that made this research possible Their foundational work and open data practices paved the way for our predictive modeling
-* **Mirovision** by the Amsterdam Music Lab You can find their incredible work at github.com/Amsterdam-Music-Lab/mirovision
-* **Eurovision Dataset** by Janne Spijkervet You can access the original base dataset at github.com/Spijkervet/eurovision-dataset
+* **Mirovision** by the Amsterdam Music Lab You can find their incredible work at https://github.com/Amsterdam-Music-Lab/mirovision
+* **Eurovision Dataset** by Janne Spijkervet You can access the original base dataset at https://github.com/Spijkervet/eurovision-dataset
 
 ## Data
 
 The data used in this study originates from three primary sources
 * The official Eurovision website and Eurodex history page located at www.eurovision.com/eurovision-song-contest/history/
-* The Eurovision World fan website located at eurovisionworld.com/
+* The Eurovision World fan website located at https://eurovisionworld.com/
 * Audio features extracted directly from live performances using Essentia
 
 The dataset contains five primary types of raw data
